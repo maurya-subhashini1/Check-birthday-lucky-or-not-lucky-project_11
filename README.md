@@ -1,5 +1,4 @@
 # Check-birthday-lucky-or-not-lucky-project_11
-# check mark11. Check your friends if their birthdates are lucky or not.
 - A website which checks whether your birthday is lucky or not by calculating if sum of digits in your birthdate is divisible by your lukcy number .
 # How to use:
 
